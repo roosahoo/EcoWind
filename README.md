@@ -37,6 +37,8 @@ Check out the live web application here:
 Explore our team's code:
 [Startecon github repo](https://github.com/startecon/AIinAction/tree/main)
 
+This entire project was built in just 48 hours as part of the AI in Action hackathon. From idea to implementation, we collaborated across disciplines to deliver a fully functional prototype in time.
+
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <img src="ecowind3.png" alt="API" width="800">
 </div>
