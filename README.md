@@ -30,12 +30,12 @@ I was responsible for designing and implementing the frontend interface of EcoWi
 ## Live Demo
 
 Check out the live web application here:
-[EcoWind]([https://aiinaction-dev-a6dcbwf3aea0gxcv.swedencentral-01.azurewebsites.net/])
+[EcoWind](https://aiinaction-dev-a6dcbwf3aea0gxcv.swedencentral-01.azurewebsites.net/)
 
 ## Team Repositories
 
 Explore our team's code:
-[Startecon github repo]([https://github.com/startecon/AIinAction/tree/main])
+[Startecon github repo](https://github.com/startecon/AIinAction/tree/main)
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <img src="ecowind3.png" alt="API" width="800">
