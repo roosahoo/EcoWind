@@ -1,5 +1,5 @@
 # EcoWind
-### // React, Material UI
+### // React, JavaScript, Material UI, R, MongoDB, Google Cloud API
 
 EcoWind is a wind prediction platform developed as part of the AI in Action competition. Our multidisciplinary team aimed to combine AI, real-world wind turbine data, and modern web technologies to forecast wind behavior up to 48 hours into the future. Wind energy plays a crucial role in the global transition to sustainable power. With better wind forecasts, energy companies can optimize turbine performance and grid integration. EcoWind provides solution that is both scalable and practical.
 
